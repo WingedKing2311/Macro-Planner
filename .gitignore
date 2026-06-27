@@ -1,0 +1,8 @@
+/.vscode
+/macro_tracker.db
+/main.exe
+/shell.c
+/sqlite3.c
+/sqlite3.h
+/sqlite3.o
+/sqlite3ext.h
