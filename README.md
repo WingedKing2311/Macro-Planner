@@ -80,8 +80,10 @@ Table: `Items`
 ### Food Rankings
 <img width="418" height="211" alt="Screenshot 2026-06-28 134429" src="https://github.com/user-attachments/assets/32065c27-d55b-478a-917e-07923000bb27" />
 
-### Protein Optimization
+### Protein Optimization (Goal Set)
 <img width="277" height="61" alt="Screenshot 2026-06-28 134532" src="https://github.com/user-attachments/assets/f0146b01-7d3e-47dd-b3cd-8fbdaed369a1" />
+
+### Protein Optimization (User Food Limits)
 <img width="542" height="412" alt="image" src="https://github.com/user-attachments/assets/444cc862-c41d-4075-8776-a109f37ed2ec" />
 
 ---
