@@ -11,7 +11,7 @@ A console-based nutrition tracker built in **C++** with **SQLite** for persisten
 - Edit existing foods
 - Delete foods
 - Calculate daily intake
-- Protein optimization using a Greedy Algorithm
+- Protein Optimization using a Greedy Algorithm
 - Food rankings
   - Protein per Calorie
   - Fiber per Calorie
@@ -104,19 +104,19 @@ Table: `Items`
 Compile using g++:
 
 ```bash
-g++ main.cpp sqlite3.c -o MacroTracker
+g++ main.cpp sqlite3.c -o MacroPlanner
 ```
 
 Run:
 
 ```bash
-./MacroTracker
+./MacroPlanner
 ```
 
 On Windows:
 
 ```bash
-MacroTracker.exe
+MacroPlanner.exe
 ```
 
 ---
