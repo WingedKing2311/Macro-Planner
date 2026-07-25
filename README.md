@@ -1,4 +1,4 @@
-# MacroTrack-CPP
+# Macro-Planner
 
 A console-based nutrition tracker built in **C++** with **SQLite** for persistent storage. The application allows users to manage food items, calculate daily nutritional intake, rank foods by nutritional efficiency, and generate protein-focused recommendations under dietary constraints (For the Gym Bros).
 
